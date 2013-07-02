@@ -1609,6 +1609,25 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Red Bull Sound Select",
+      "thumb": "redbullsoundselect/thumb.jpg",
+      "desc": "Celebrating local music and the people that push it forward. BREAK MUSIC.",
+      "url": "http://www.redbullsoundselect.com",
+      "submitter": "scottrutherford",
+      "submissionDate": "2013-07-02",
+      "tags": [
+        "Production",
+        "jQuery",
+        "Music",
+        "Node",
+        "Postgres",
+        "Mongo",
+        "Redis",
+        "Heroku",
+        "Responsive"
+      ]
     }
   ]
 }
